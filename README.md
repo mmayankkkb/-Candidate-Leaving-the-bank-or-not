@@ -11,8 +11,9 @@ Churn_Modeling.csv   -> Dataset
 Tutorial -> how to run the  Churn_Modeling.ipynb file in jupyter.
 if you have not installed the jupyter's and packages packages,please install them first.
 
-packages used: 
-1.tensorflow-gpu (if you have a graphic card in your laptop/pc) or tensorflow
-2.numpy
-3.matplotlib
-4.pandas
+packages used:
+
+1.tensorflow-gpu (if you have a graphic card in your laptop/pc) or tensorflow.
+2.numpy.
+3.matplotlib.
+4.pandas.
