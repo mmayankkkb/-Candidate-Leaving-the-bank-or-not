@@ -1,6 +1,6 @@
 # Customer-Bank-Membership-Prediction-using-ANN
 
-I've used Artificial Neural Networks to train the model to predict Whether the person will exit the bank or not.
+I've used Artificial Neural Networks and Random Forest algorithm to train the model to predict Whether the person will exit the bank or not.
 Got an accuracy of 85.8% 
 
 Dataset that I have used to train the model or you can download the Churn_Modeling.csv:
@@ -17,3 +17,4 @@ packages used:
 2.numpy.
 3.matplotlib.
 4.pandas.
+5.sklearn.
