@@ -1,4 +1,4 @@
-# Customer-Bank-Membership-Prediction-using-ANN
+# Customer-Bank-Membership-Prediction
 
 I've used Artificial Neural Networks and Random Forest algorithm to train the model to predict Whether the person will exit the bank or not.
 
