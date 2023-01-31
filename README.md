@@ -2,7 +2,7 @@
 
 I've used Artificial Neural Networks and Random Forest algorithm to train the model to predict Whether the person will exit the bank or not.
 
-Accuracy
+## Accuracy
 
 
 Artifical Neural Network -> 84.26666666666667 %
